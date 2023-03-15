@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
 <h3 align="center">A fullstack coder from Vietnam, living in Japan</h3>
 
-- 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today
+- 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today/
 
 - 📝 I sometimes write articles on https://vn.japo.news/
 
@@ -20,7 +20,7 @@ Lately I'm interested in security so I challenge with SQL Injection on https://t
   <a href="https://www.linkedin.com/in/thao-truong-98b647223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Charlie_Thao" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Utilities:</h3>
 <p align="left">
       <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/> </a>
@@ -38,7 +38,16 @@ Lately I'm interested in security so I challenge with SQL Injection on https://t
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" alt="jetbrains" width="60" height="60"/> </a> 
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" alt="jetbrains" width="60" height="60"/> </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x512-lmof1hfg.png" alt="webstorm" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
+  <a href="https://gradle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
+  </p>
+   
+  <h3 align="left">Business Tools:</h3>
+<p align="left">
+      <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a>
+  <a href="https://zoom.us/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/016/716/479/non_2x/zoom-meetings-icon-free-png.png" alt="zoom" width="40" height="40"/> </a>
+  <a href="https://meet.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-meet-512.png" alt="ggmeet" width="40" height="40"/> </a>
   </p>
