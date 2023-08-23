@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
-<h3 align="center">A fullstack coder from Vietnam, living in Japan</h3>
+<h3 align="center">A frontend coder from Vietnam, living in Japan</h3>
 
 - 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today/
 
 - 📝 I sometimes write articles on https://vn.japo.news/
 
-- 💬 Talk with me about **Java, JavaScript, TypeScript or React**
+- 💬 Talk with me about **Java, JavaScript, TypeScript and ReactJS**
 
-- :climbing_woman: Fun fact **I love bouldering**
+- :climbing_woman: Fun fact **I love bouldering, snowboarding**
 
 ### Blogs posts
 
