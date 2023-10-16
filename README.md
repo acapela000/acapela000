@@ -5,7 +5,7 @@
 
 - 📝 I sometimes write articles on https://vn.japo.news/
 
-- 💬 Talk with me about **Java, JavaScript, TypeScript and ReactJS**
+- 💬 Talk with me about **NextJS, JavaScript, TypeScript and ReactJS**
 
 - :climbing_woman: Fun fact **I love bouldering, snowboarding**
 
