@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
-<h3 align="center">A frontend coder from Vietnam, living in Japan</h3>
+<h3 align="center">A junior fullstack coder from Vietnam, living in Japan</h3>
 
-- 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today/
+- 💬 Talk with me about **NextJS, JavaScript, TypeScript and ReactJS, AI Tools. Currently, I'm learning Python and LLM**
 
-- 📝 I sometimes write articles on https://vn.japo.news/
+- **NASA Space App Challenge 2023 in Yokohama/Japan Winner** for best product "Green Space" for environment section https://spaceapps.yokohama/
 
-- 💬 Talk with me about **NextJS, JavaScript, TypeScript and ReactJS**
+- **Builder Weekend Hackathon 2023 Finalist** [Builders Weekend Hackathon](https://www.linkedin.com/posts/buildersweekend_buildersweekend23-activity-7071418962080665600-6gng?utm_source=share&utm_medium=member_desktop
+)
+  
+- 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today/ (rebuilding)
 
-- :climbing_woman: Fun fact **I love bouldering, snowboarding**
+- :climbing_woman: Fun fact **I love bouldering, snowboarding, joining hackathon**
 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-Lately I'm interested in security so I challenge with SQL Injection on https://tryhackme.com/
+- I'm interested in security so I challenge with SQL Injection on https://tryhackme.com/
+- I sometimes write articles on https://vn.japo.news/
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +36,7 @@ Lately I'm interested in security so I challenge with SQL Injection on https://t
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="swagger" width="40" height="40"/> </a>
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg" alt="insomnia" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -41,9 +46,16 @@ Lately I'm interested in security so I challenge with SQL Injection on https://t
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x512-lmof1hfg.png" alt="webstorm" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-  <a href="https://gradle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </a>
+  <a href="https://gradle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/> </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" alt="openai" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
+   <a href="https://flask.palletsprojects.com/en/3.0.x/deploying/uwsgi/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-original.svg" alt="uwsgi" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png" alt="aws" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com/products/ai?hl=en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/> </a>
   </p>
    
   <h3 align="left">Business Tools:</h3>
