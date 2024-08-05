@@ -10,14 +10,7 @@
   
 - 🔭 I’m currently working on my personal webpage at https://whatisthaodoing.today/ (rebuilding)
 
-- :climbing_woman: Fun fact **I love bouldering, snowboarding, joining hackathon**
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- I'm interested in security so I challenge with SQL Injection on https://tryhackme.com/
-- I sometimes write articles on https://vn.japo.news/
-<!-- BLOG-POST-LIST:END -->
+- :climbing_woman: Fun fact **I love joining hackathon and craft apps with AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,3 +57,10 @@
   <a href="https://zoom.us/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/016/716/479/non_2x/zoom-meetings-icon-free-png.png" alt="zoom" width="40" height="40"/> </a>
   <a href="https://meet.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-meet-512.png" alt="ggmeet" width="40" height="40"/> </a>
   </p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+- I'm interested in security so I challenge with SQL Injection on https://tryhackme.com/
+- I sometimes write articles on https://vn.japo.news/
+<!-- BLOG-POST-LIST:END -->
