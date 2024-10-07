@@ -3,7 +3,13 @@
 
 - 💬 Talk with me about **NextJS, JavaScript, TypeScript and ReactJS, AI Tools. Currently, I'm learning Python and LLM**
 
-- **NASA Space App Challenge 2023 in Yokohama/Japan Winner** for best product "Green Space" for environment section https://spaceapps.yokohama/
+- **NASA Space App Challenge 2024 in Kyoto/Japan Winner for National nominee** for "Realax Pose" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
+
+- **Tokyo Open Data Hackathon 2024 Finalist** for "Trash classifier with AI" [Metro Politant Official announcement](https://search.app/pJXtSWEvLWQJ48WE6) <br>
+Archive video for demo at First stage [Trash classifier with AI](https://search.app/pgoqP6JaVtf8SGpB9) <br>
+The hackathon is still on going, Im trying my best to become the winner <3
+
+- **NASA Space App Challenge 2023 in Yokohama/Japan Winner** for best product "Green Space" for environment section [Official announcement](https://web.archive.org/web/20231219224558/https://spaceapps.yokohama/)
 
 - **Builder Weekend Hackathon 2023 Finalist** [Builders Weekend Hackathon](https://www.linkedin.com/posts/buildersweekend_buildersweekend23-activity-7071418962080665600-6gng?utm_source=share&utm_medium=member_desktop
 )
