@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
 <h3 align="center"> Junior fullstack developer living in Japan</h3>
 
-- 💬 Talk with me about **NextJS, VueJS, JavaScript, TypeScript and ReactJS, AI Tools. Currently, I'm learning Python and LLM**
-
 - :tada: **NASA Space App Challenge 2024 in Kyoto/Japan Winner for Global Nominee** for "Realax Posture" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
 
 - :trophy: **Tokyo Open Data Hackathon 2024 Winner for Best technical project** with "Trash classifier with AI" [Metro Politant Official announcement](https://search.app/pJXtSWEvLWQJ48WE6) <br>
@@ -13,10 +11,12 @@
 
 - :tada: **Builder Weekend Hackathon 2023 Finalist** [Builders Weekend Hackathon](https://www.linkedin.com/posts/buildersweekend_buildersweekend23-activity-7071418962080665600-6gng?utm_source=share&utm_medium=member_desktop
 )
-  
+
+- 💬 Talk with me about **NextJS, VueJS, JavaScript, TypeScript and ReactJS, AI Tools. Currently, I'm learning Python and LLM**
+    
 - 🔭 I’m currently working on my personal webpage at :construction: https://whatisthaodoing.today/ (rebuilding)
 
-- :climbing_woman: Fun fact **I love joining hackathon and craft apps with AI**
+- :climbing_woman: Fun fact **I love joining hackathon and craft apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
