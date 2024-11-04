@@ -67,6 +67,5 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- I'm interested in security so I challenge with SQL Injection on https://tryhackme.com/
-- I sometimes write articles on https://vn.japo.news/
+- ...
 <!-- BLOG-POST-LIST:END -->
