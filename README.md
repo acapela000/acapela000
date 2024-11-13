@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
 <h3 align="center"> Junior fullstack developer living in Japan</h3>
 
-- :tada: **NASA Space App Challenge 2024 in Kyoto/Japan Winner for Global Nominee** for "Realax Posture" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
+- :tada: **NASA Space App Challenge 2024 in Kyoto/Japan for Global Nominee** for "Realax Posture" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
 
 - :trophy: **Tokyo Open Data Hackathon 2024 Winner for Best technical project** with "Trash classifier with AI" [Metro Politant Official announcement](https://search.app/pJXtSWEvLWQJ48WE6) <br>
 [First Stage Archive](https://www.youtube.com/watch?v=B--Pl4bJK_A&t=9640s) at 2:40:43 <br>
