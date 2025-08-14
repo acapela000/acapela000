@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
-<h3 align="center"> Junior fullstack developer living in Japan</h3>
+<h3 align="center"> Fullstack developer living in Japan</h3>
 
 - :tada: **NASA Space App Challenge 2024 in Kyoto/Japan for Global Nominee** for "Realax Posture" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
 
