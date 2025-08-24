@@ -3,7 +3,8 @@
 
 - :tada: **NASA Space App Challenge 2024 in Kyoto/Japan for Global Nominee** for "Realax Posture" for Galatic [Project detail](Game challenge https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/relax-posture/?tab=project)
 
-- :trophy: **Tokyo Open Data Hackathon 2024 Winner for Best technical project** with "Trash classifier with AI" [Metro Politant Official announcement](https://search.app/pJXtSWEvLWQJ48WE6) <br>
+- :trophy: **Tokyo Open Data Hackathon 2024 Winner for Best technical project** with "Trash classifier with AI" [Metro Politant Official announcement](https://www.metro.tokyo.lg.jp/information/press/2024/09/2024092704) <br>
+[Metro Politant Official announcement PDF List](https://www.metro.tokyo.lg.jp/documents/d/tosei/05_01_584) <br>
 [First Stage Archive](https://www.youtube.com/watch?v=B--Pl4bJK_A&t=9640s) at 2:40:43 <br>
 [Finally Stage Archive](https://www.youtube.com/watch?v=_B-3AmLSyl4&t=11455s) at 3:10:45
 
