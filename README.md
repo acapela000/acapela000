@@ -5,7 +5,7 @@
 
 - :trophy: **Tokyo Open Data Hackathon 2024 Winner for Best technical project** with "Trash classifier with AI" [Metro Politant Official announcement](https://search.app/pJXtSWEvLWQJ48WE6) <br>
 [First Stage Archive](https://www.youtube.com/watch?v=B--Pl4bJK_A&t=9640s) at 2:40:43 <br>
-[Finally Stage Archive](https://www.youtube.com/watch?v=B--Pl4bJK_A&t=9640s) at 3:10:45
+[Finally Stage Archive](https://www.youtube.com/watch?v=_B-3AmLSyl4&t=11455s) at 3:10:45
 
 - :tada: **NASA Space App Challenge 2023 in Yokohama/Japan Winner** for best product "Green Space" for environment section [Official announcement](https://web.archive.org/web/20231219224558/https://spaceapps.yokohama/)
 
